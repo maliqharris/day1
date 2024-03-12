@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e38f5240.css",
+    "main.js": "/static/js/main.170bbbc4.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/final_fantasy_7_dynamic_backgrounds_gifs_3.gif": "/static/media/final_fantasy_7_dynamic_backgrounds_gifs_3.3565407ef00b95938cf2.gif",
+    "static/media/SpectreRegular-MV4YB.otf": "/static/media/SpectreRegular-MV4YB.5256934b747e51b014d4.otf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e38f5240.css.map": "/static/css/main.e38f5240.css.map",
+    "main.170bbbc4.js.map": "/static/js/main.170bbbc4.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e38f5240.css",
+    "static/js/main.170bbbc4.js"
+  ]
+}
